@@ -1,5 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
 .App {
-  text-align: center;
+    position: relative;
+    width: 100%;
+    height: 1080px;
+    overflow: hidden;
+    background-image: url("https://s3-alpha-sig.figma.com/img/3fd1/cd12/0ee99c11c73f156da715330c7724f6a0?Expires=1699228800&Signature=I7V8aADAErmNaaiajpJ1MuNyvLo6g9tdACMgTM4MSD2TiJd0W6D5jayJlaeM4a-pBEl7BSEA2jiwXcng2dfKjDtSb56yz66MStNetlOeqkN6Ltzz1h3z4wG87RWFpwsRIjXWipIeT3xDuouTgjbwZNQXrwVXuxAbJ21qyaTmRihUforiGUAnxfEZzRktllZyD4lwhMyKc~67O-lsVNDADni1JXXWRG6~4hcEmDGApJ6xFQscUUk7av4vgMBG1A2jRjLJGXvNDB~QlQ6-j9iAfTqzIXoOXDuRn1fS03M205Atax6UA6CGdPohMhCAt50BjBAyhpkYDgdkns9Tn1RKSw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    text-align: center;
+    font-size: 24px;
+    color: #fff;
+    font-family: poppins;
+  
 }
 
 .App-logo {

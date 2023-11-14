@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+.box{
+        position: absolute;
+        top: 20px;
+        left: 1483px;
+        width: 420px;
+        height: 1041px;
+    
+}
+
+.group-item {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 31.71px;
+    background-color: rgba(103, 100, 255, 0.3);
+    filter: blur(4.23px);
+    width: 420px;
+    height: 1041px;
+  }
+  .profile-picture-icon {
+    position: absolute;
+    top: -2.14px;
+    left: 91.57px;
+    width: 127.38px;
+    height: 125.98px;
+  }
+  .group-inner {
+    top: 0;
+    left: 0;
+    border-radius: 8px;
+    background-color: rgba(103, 100, 255, 0.8);
+    border: 1px solid #6764ff;;
+    box-sizing: border-box;
+    width: 336.98px;
+    height: 63px;
+  }
+  .group-inner,
+  .icon-add,
+  .next {
+    position: absolute;
+  }
+  .next {
+    width: 81.23%;
+    top: 0;
+    left: 18.77%;
+    font-weight: 600;
+    display: inline-block;
+  }
+  .icon-add {
+    height: 83.33%;
+    width: 14.08%;
+    top: 5.56%;
+    right: 85.92%;
+    bottom: 11.11%;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .next-parent {
+    position: absolute;
+    height: 57.14%;
+    width: 63.2%;
+    top: 20.63%;
+    right: 22.59%;
+    bottom: 22.22%;
+    left: 14.2%;
+  }
+  .rectangle-group {
+    position: absolute;
+    top: 262px;
+    left: 0;
+    width: 336.98px;
+    height: 63px;
+  }
+  .john-pope,
+  .location-child {
+    position: absolute;
+    top: 52px;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 232px;
+  }
+  .john-pope {
+    top: 0;
+    left: 28.77px;
+    font-size: 32px;
+    font-weight: 600;
+    width: 170px;
+    text-shadow: 0 4.227411270141602px 4.23px rgba(0, 0, 0, 0.25);
+  }
+  .location {
+    position: absolute;
+    top: 137px;
+    left: 40.86px;
+    width: 232px;
+    height: 82px;
+    font-size: 20px;
+  }
+  .icon-verify,
+  .profile-picture-parent {
+    position: absolute;
+    top: 250px;
+    left: 56.14px;
+    width: 336.98px;
+    height: 325px;
+  }
+  .icon-verify {
+    height: 4.8%;
+    width: 11.9%;
+    top: 2.59%;
+    right: 6.9%;
+    bottom: 92.6%;
+    left: 81.19%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .greater {
+    position: absolute;
+    top: 27px;
+    left: 29px;
+    width: 44px;
+    height: 44px;
+  }
+  .rectangle-div,
+  .rectangle-parent {
+    position: absolute;
+    top: 20px;
+    left: 1483px;
+    width: 420px;
+    height: 1041px;
+  }

@@ -1,0 +1,249 @@
+
+.group-child9,
+.locked2,
+.step-8 {
+  position: absolute;
+  top: 82px;
+  left: 95px;
+  width: 55px;
+  height: 55px;
+}
+.locked2,
+.step-8 {
+  top: 140px;
+  left: 57px;
+  font-weight: 600;
+  display: inline-block;
+  width: 130px;
+  height: 24px;
+}
+.step-8 {
+  top: 0;
+  left: 86px;
+  width: 73px;
+  height: 23px;
+}
+.monthly-fee-credit,
+.step-8-parent {
+  position: absolute;
+  left: 0;
+  width: 244px;
+}
+.monthly-fee-credit {
+  top: 23px;
+  font-weight: 600;
+  color: var(--color-slateblue);
+  display: inline-block;
+  height: 33px;
+}
+.step-8-parent {
+  top: 0;
+  height: 56px;
+  font-size: var(--font-size-xl);
+  color: var(--color-lightsteelblue-200);
+}
+.group-parent3,
+.group-parent4,
+.group-parent5 {
+  position: absolute;
+  top: 0;
+  left: 2187px;
+  width: 244px;
+  height: 164px;
+}
+.group-parent4,
+.group-parent5 {
+  left: 1871px;
+}
+.group-parent5 {
+  left: 1555px;
+}
+.group-child12,
+.group-parent6 {
+  position: absolute;
+  top: 82px;
+  left: 1333px;
+  width: 55px;
+  height: 55px;
+}
+.group-parent6 {
+  top: 0;
+  left: 1239px;
+  width: 244px;
+  height: 164px;
+}
+.add,
+.group-child13 {
+  position: absolute;
+  top: 82px;
+  left: 94px;
+  width: 55px;
+  height: 55px;
+}
+.add {
+  top: 140px;
+  left: 56px;
+  font-weight: 600;
+  display: inline-block;
+  width: 130px;
+  height: 24px;
+}
+.step-4-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 244px;
+  height: 56px;
+  font-size: var(--font-size-xl);
+  color: var(--color-lightsteelblue-100);
+}
+.create-your-plan,
+.group-parent7 {
+  position: absolute;
+  top: 0;
+  left: 923px;
+  width: 244px;
+  height: 164px;
+}
+.create-your-plan {
+  top: 23px;
+  left: 0;
+  font-weight: 600;
+  color: var(--color-mediumslateblue-200);
+  display: inline-block;
+  height: 33px;
+}
+.group-parent8 {
+  position: absolute;
+  top: 0;
+  left: 607px;
+  width: 244px;
+  height: 164px;
+}
+.completed1 {
+  margin: 0;
+}
+.completed {
+  position: absolute;
+  top: 140px;
+  left: 58px;
+  line-height: 150%;
+  font-weight: 600;
+  display: inline-block;
+  width: 130px;
+  height: 24px;
+}
+.group-child15 {
+  position: absolute;
+  top: 82px;
+  left: 98px;
+  width: 50px;
+  height: 50px;
+}
+.completed-parent {
+  position: absolute;
+  top: 0;
+  left: 291px;
+  width: 244px;
+  height: 164px;
+  color: var(--color-mediumslateblue-400);
+}
+.completed2 {
+  position: absolute;
+  top: 140px;
+  left: 30px;
+  line-height: 150%;
+  font-weight: 600;
+  display: inline-block;
+  width: 130px;
+  height: 24px;
+}
+.create-account,
+.group-child16,
+.step-1 {
+  position: absolute;
+  top: 82px;
+  left: 68px;
+  width: 50px;
+  height: 50px;
+}
+.create-account,
+.step-1 {
+  top: 0;
+  font-weight: 600;
+  display: inline-block;
+  width: 73px;
+  height: 23px;
+}
+.create-account {
+  top: 23.26px;
+  left: 0;
+  color: var(--color-mediumslateblue-200);
+  text-align: center;
+  width: 190px;
+  height: 32.74px;
+}
+.completed-group,
+.step-1-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 190px;
+}
+.step-1-parent {
+  height: 56px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-lightsteelblue-100);
+}
+.completed-group {
+  height: 164px;
+  color: var(--color-mediumslateblue-400);
+}
+.line-parent,
+.user-journey-path-dv2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 2431px;
+  height: 164px;
+}
+.user-journey-path-dv2 {
+  top: 106px;
+  border-radius: var(--br-11xs);
+  background-color: var(--color-darkslategray);
+  border: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 1285px;
+  height: 200px;
+  overflow-x: auto;
+}
+.journey {
+  color: var(--color-mediumslateblue-100);
+}
+.user-journey-txt-container {
+  line-break: anywhere;
+  width: 100%;
+}
+.user-journey {
+  position: absolute;
+  top: 0;
+  left: 507px;
+  font-size: 30px;
+  text-transform: capitalize;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 226px;
+  height: 51px;
+  color: var(--color-gray-200);
+}
+.user-journey-path-dv2-parent {
+  position: absolute;
+  top: 644px;
+  left: 81px;
+  width: 1285px;
+  height: 306px;
+  font-size: var(--font-size-mini);
+  color: var(--color-mediumslateblue-100);
+}
